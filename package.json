@@ -31,7 +31,7 @@
 	"dependencies": {
 		"bluebird": "^3.0.5",
 		"koa": "^2.3.0",
-		"oauth2-server": "3.0.0"
+		"oauth2-server": "git+https://github.com/dead-horse/node-oauth2-server"
 	},
 	"devDependencies": {
 		"koa-bodyparser": "^4.2.0",
